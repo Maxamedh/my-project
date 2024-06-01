@@ -47,6 +47,9 @@ dependencies:
   open_file: ^3.3.2
   permission_handler: ^11.3.1
   file_picker: ^8.0.3
+  font_awesome_flutter: ^10.7.0
+  telephony: ^0.2.0
+  firebase_messaging: ^14.9.3
 
 dev_dependencies:
   flutter_test:
@@ -80,6 +83,8 @@ flutter:
      - assets/more.png
      - assets/doctor.jpg
      - assets/logohoshospital.png
+     - assets/payment.png
+     - assets/login.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
